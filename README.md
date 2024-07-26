@@ -1,5 +1,5 @@
 Welcome to My GitHub Repository
-Hello and welcome to my GitHub repository! My name is [Your Name], and I am currently a student at 42 Paris, where I am honing my skills in computer science and software development.
+Hello and welcome to my GitHub repository! My name is Aurélien, and I am currently a student at 42 Paris, where I am honing my skills in computer science and software development.
 
 About This Repository
 This repository is a comprehensive collection of all the projects I have completed during my studies at 42 Paris. Here, you will find a variety of projects that showcase my proficiency in various programming languages, algorithms, and software development methodologies.
