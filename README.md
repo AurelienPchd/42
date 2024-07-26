@@ -9,7 +9,8 @@ Projects
 Description: The Libft project is a fundamental part of the 42 curriculum. It involves creating a library of basic C functions that replicate the functionality of several standard library functions. The goal of this project is to deepen our understanding of these functions by implementing them ourselves, thereby enhancing our proficiency in C programming.
 
 Technologies Used:
-C
+
+C, 
 Makefile
 
 ...and many more!
@@ -19,5 +20,7 @@ Showcase Skills: This repository is a testament to the knowledge and skills I ha
 Transparency: It provides a transparent view of my learning journey and the projects I've worked on.
 Collaboration: I am open to collaboration and feedback, so feel free to fork, star, or submit pull requests.
 Connect with Me
+
 Email: raftyaure@gmail.com
+
 Thank you for visiting my GitHub repository. I hope you find my projects interesting and insightful!
